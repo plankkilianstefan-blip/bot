@@ -1,0 +1,4 @@
+[
+  {"address": "HIER_WALLET_ADRESSE_EINES_GROSSEN_TRADERS", "label": "whale-1", "category": "gross"},
+  {"address": "HIER_WALLET_ADRESSE_EINES_KLEINEN_TRADERS", "label": "degen-1", "category": "klein"}
+]

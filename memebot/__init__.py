@@ -1,0 +1,1 @@
+"""Solana Memecoin Callout Bot."""
